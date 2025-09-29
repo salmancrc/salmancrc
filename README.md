@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salman Ahmad</h1>
-<h3 align="center">with 6+ years of experience building MVPs and real-time platform from small to scalable using React and Next.js.</h3>
+<h3 align="center">With 6+ years of experience in frontend development,
+I specialize in building MVPs and real-time platforms using React and Next.js.
+Open to collaboration and new opportunities — please reach out to connect.</h3>
 
 - 🔭 I’m currently working on **Building modern web interfaces with React, Next.js, and TypeScript**
 
