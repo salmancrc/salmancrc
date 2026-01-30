@@ -7,9 +7,9 @@ Open to collaboration and new opportunities — please reach out to connect.</h3
 
 - 👯 I’m looking to collaborate on **Innovative frontend projects, open-source UI libraries, and design systems**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/salmanahmad123/](https://www.linkedin.com/in/salmanahmad123/)
+- 👨‍💻 All of my projects are available at **https://salman-portfolio-9k8f.vercel.app/**
 
-- 📫 How to reach me **msahmad9876@gmail.com**
+- 📫 How to reach me [https://www.linkedin.com/in/salmanahmad123/](https://www.linkedin.com/in/salmanahmad123/)
 
 - 📄 Know about my experiences [https://salman-resume.tiiny.site](https://salman-resume.tiiny.site)
 
